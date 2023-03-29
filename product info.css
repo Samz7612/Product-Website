@@ -1,0 +1,104 @@
+*{
+    margin:10px;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+body{ 
+    background-color: rgb(237, 44, 44);
+}
+
+.main{
+margin-top: 30px;
+margin-left: 20px;
+margin-right: 20px;
+background-color: white;
+}
+.header{
+line-height: 1.1;
+text-align: center;
+}
+
+.header h1{
+margin-top: 5px;
+margin-bottom: 5px;
+color: blue;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header h2{
+font-size: 20px;
+color: red;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.header p {
+    text-align: center;
+margin-left: 50px;
+margin-right: 50px;
+margin-bottom: 25px;
+margin-top: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+
+.header img{
+background-color: green;
+    padding: 15px;
+    border-radius: 25%;
+    margin-bottom: 50px;
+}
+
+.consoles {
+    text-align: center;
+}
+
+.consoles h2 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+color: rgb(24, 24, 161);
+}
+
+.eachconsole {
+background-color: aqua;
+margin-left: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.eachconsole p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.eachconsole img {
+    border-radius: 55%;
+    padding: 5px;
+    background-color: purple;
+}
+
+.purchase {
+margin-left: 15x;
+margin-top: 20px;
+margin-bottom: 15px;
+}
+
+.purchase h2 {
+    text-align: center;
+}
+
+
+.purchase ul {
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+}
+
+.purchase li {
+    margin-top: 10px;
+}
+
+.contact {
+    text-align: center;
+}
+
